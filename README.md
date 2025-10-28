@@ -41,6 +41,9 @@ make clean
 
 ## Usage
 
+### 0. Rtsp server
+./csi_camera_h264_encode -i 0 -r 1280x720 -f 30 -H -d 0
+
 ### 1. Start the Camera Server
 
 ```bash
